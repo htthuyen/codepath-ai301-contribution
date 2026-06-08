@@ -1,16 +1,28 @@
 # codepath-ai301-contribution
-# Contribution [#]: [Issue Title]
+# Contribution #205:  Add compatibility test for $bitXor 
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** #205
 
+**Student:** Huyen Huynh
+
+**Issue:** [GitHub issue link]  (https://github.com/documentdb/functional-tests/issues/205)
+
+**Status:** [Phase I / Phase II / Phase III / Phase IV] Phase I is completed
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+ I chose #205: Add compatibility test for $ bitXor because it aligns with my Python experience and my goal to improve test-writing skills. The issue is labeled "good first issue" and has clear contribution instruction. 
+
+ I'm interesed in this because:
+ 1. I have extensive experience using Python in both personal and academic projects, which will help me understand and implement the required tests.
+ 2. I understand how bitwise XOR works
+ 3. I want to gain more experience writing and maintaining tests.
+
+From reading the issue thread, I understand that compatibility testing for $bitXor is currently missing. My contribution will be add the necessary test coverage and help resolve the issue.
+
+I have left Left a comment on the issue introducing myself but I haven't received a response hyet yet.
+
 
 ---
 
