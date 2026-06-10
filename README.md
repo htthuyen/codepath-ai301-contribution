@@ -21,7 +21,7 @@
 
 From reading the issue thread, I understand that compatibility testing for $bitXor is currently missing. My contribution will be add the necessary test coverage and help resolve the issue.
 
-I have left Left a comment on the issue introducing myself but I haven't received a response hyet yet.
+I have left Left a comment on the issue introducing myself but I haven't received a response back yet.
 
 
 ---
